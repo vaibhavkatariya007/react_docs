@@ -7,3 +7,8 @@ fills the content into it.
 
 Server-side rendering, on the other hand, renders the React components on the server. The output is HTML content.
 
+Cons of Rendering React on the Server
+SSR can improve performance if your application is small. But it can also degrade performance if it is heavy.
+It increases response time (and it can be worse if the server is busy).
+It increases response size, which means the page takes longer to load.
+It increases the complexity of the application.
