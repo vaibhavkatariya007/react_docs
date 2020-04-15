@@ -1,0 +1,9 @@
+// SERVER SIDE RENDERING
+
+
+What’s the difference between client-side rendering and server-side rendering?
+In Client-side rendering, your browser downloads a minimal HTML page. It renders the JavaScript and 
+fills the content into it.
+
+Server-side rendering, on the other hand, renders the React components on the server. The output is HTML content.
+
